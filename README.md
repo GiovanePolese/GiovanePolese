@@ -3,7 +3,7 @@ São José dos Pinhais - PR, Brazil
 <br>
 
 **I'm Giovane and I'm Currently looking for opportunities in the labor market to learn and keep improving my coding skills** <br>
-**Me chamo Giovane e atualmente busco por oportunidades no mercado de trablho para poder aprender e continuar crescendo** <br>
+🇧🇷 **Me chamo Giovane e atualmente busco por oportunidades no mercado de trablho para poder aprender e continuar crescendo** <br>
 
 
 - 👨‍🎓 Graduated in Information Systems - Formado em Sistemas de Informação
