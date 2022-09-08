@@ -1,5 +1,5 @@
 ### Welcome to my github!!! 👋
-São José dos Pinhais - PR, Brazil
+Curitiba - PR, Brazil
 <br>
 
 **I'm Giovane and I'm Currently looking for opportunities to learn and keep improving my coding skills** <br>
