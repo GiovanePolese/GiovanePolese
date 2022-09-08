@@ -7,7 +7,7 @@ São José dos Pinhais - PR, Brazil
 
 
 - 👨‍🎓 Graduated in Information Systems - Formado em Sistemas de Informação
-- 👨‍💻 Junior Front-End Developer - Desenvolvedor front-end Júnior
+- 👨‍💻 Front-End Developer - Desenvolvedor front-end
 - ⚡ Love sports and challenges - Apaixonado por esportes e por desafios
 
 
