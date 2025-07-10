@@ -7,7 +7,7 @@ Curitiba - PR, Brazil
 - ⚡ Love sports and challenges
 
 
-**Me encontre - Find me at**
+**Find me at**
 <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/GiovanePolese)](https://github.com/GiovanePolese)
