@@ -2,13 +2,9 @@
 Curitiba - PR, Brazil
 <br>
 
-**I'm Giovane and I'm Currently looking for opportunities to learn and keep improving my coding skills** <br>
-🇧🇷 **Me chamo Giovane e atualmente busco por oportunidades para poder aprender e continuar evoluindo minhas habilidadeds de programação** <br>
-
-
-- 👨‍🎓 Graduated in Information Systems - Formado em Sistemas de Informação
-- 👨‍💻 Front-End Developer - Desenvolvedor front-end
-- ⚡ Love sports and challenges - Apaixonado por esportes e por desafios
+- 👨‍🎓 Graduated in Information Systems
+- 👨‍💻 Front-End Developer
+- ⚡ Love sports and challenges
 
 
 **Me encontre - Find me at**
